@@ -3,8 +3,8 @@
 
 # 1. set function set the value of the matrix
 # 2. get function get the value of the matrix
-# 3. setinverse function set the value of the inverse of the matrix
-# 4. getinverse function get the value of the inverse of the matrix
+# 3. setinverse function set the value of the inverse of the matrix provided
+# 4. getinverse function get the value of the inverse of the matrix provided
 
 makeCacheMatrix <- function(x = matrix()) {
 
